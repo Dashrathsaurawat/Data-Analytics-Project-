@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual_Income_(k$),Spending_Score_(1-100),Product_Category
+1,Male,25,30,60,Electronics
+2,Male,45,70,40,Electronics
+3,Male,23,25,70,Electronics
+4,Male,35,65,50,Electronics
+5,Male,46,80,30,Electronics
+6,Male,28,35,65,Electronics
+7,Male,39,55,45,Electronics
+8,Male,24,32,75,Electronics
+9,Male,48,90,25,Electronics
+10,Male,30,40,55,Electronics
+11,Male,25,30,60,Electronics
+12,Male,45,70,40,Electronics
+13,Male,23,25,70,Electronics
+14,Male,35,65,50,Electronics
+15,Male,46,80,30,Electronics
+16,Male,28,35,65,Electronics
+17,Male,39,55,45,Electronics
+18,Male,24,32,75,Electronics
+19,Male,48,90,25,Electronics
+20,Male,30,40,55,Electronics
+21,Male,25,30,60,Electronics
+22,Male,45,70,40,Electronics
+23,Male,23,25,70,Electronics
+24,Male,35,65,50,Electronics
+25,Male,46,80,30,Electronics
+26,Male,28,35,65,Electronics
+27,Male,39,55,45,Electronics
+28,Male,24,32,75,Electronics
+29,Male,48,90,25,Electronics
+30,Male,30,40,55,Electronics
+31,Male,25,30,60,Electronics
+32,Male,45,70,40,Electronics
+33,Male,23,25,70,Electronics
+34,Male,35,65,50,Electronics
+35,Male,46,80,30,Electronics
+36,Male,28,35,65,Electronics
+37,Male,39,55,45,Electronics
+38,Male,24,32,75,Electronics
+39,Male,48,90,25,Electronics
+40,Male,30,40,55,Electronics
+41,Male,25,30,60,Electronics
+42,Male,45,70,40,Electronics
+43,Male,23,25,70,Electronics
+44,Male,35,65,50,Electronics
+45,Male,46,80,30,Electronics
+46,Male,28,35,65,Electronics
+47,Male,39,55,45,Electronics
+48,Male,24,32,75,Electronics
+49,Male,48,90,25,Electronics
+50,Male,30,40,55,Electronics
+51,Male,25,30,60,Electronics
+52,Male,45,70,40,Electronics
+53,Male,23,25,70,Electronics
+54,Male,35,65,50,Electronics
+55,Male,46,80,30,Electronics
+56,Male,28,35,65,Electronics
+57,Male,39,55,45,Electronics
+58,Male,24,32,75,Electronics
+59,Male,48,90,25,Electronics
+60,Male,30,40,55,Electronics
+61,Male,25,30,60,Groceries
+62,Male,45,70,40,Groceries
+63,Male,23,25,70,Groceries
+64,Male,35,65,50,Groceries
+65,Male,46,80,30,Groceries
+66,Male,28,35,65,Groceries
+67,Male,39,55,45,Groceries
+68,Male,24,32,75,Groceries
+69,Male,48,90,25,Groceries
+70,Male,30,40,55,Groceries
+71,Male,25,30,60,Groceries
+72,Male,45,70,40,Groceries
+73,Male,23,25,70,Groceries
+74,Male,35,65,50,Groceries
+75,Male,46,80,30,Groceries
+76,Male,28,35,65,Groceries
+77,Male,39,55,45,Groceries
+78,Male,24,32,75,Groceries
+79,Male,48,90,25,Groceries
+80,Male,30,40,55,Groceries
+81,Male,25,30,60,Groceries
+82,Male,45,70,40,Groceries
+83,Male,23,25,70,Groceries
+84,Male,35,65,50,Groceries
+85,Male,46,80,30,Groceries
+86,Male,28,35,65,Groceries
+87,Male,39,55,45,Groceries
+88,Male,24,32,75,Groceries
+89,Female,48,90,25,Groceries
+90,Female,30,40,55,Groceries
+91,Female,25,30,60,Groceries
+92,Female,45,70,40,Groceries
+93,Female,23,25,70,Groceries
+94,Female,35,65,50,Groceries
+95,Female,46,80,30,Groceries
+96,Female,28,35,65,Groceries
+97,Female,39,55,45,Groceries
+98,Female,24,32,75,Groceries
+99,Female,48,90,25,Groceries
+100,Female,30,40,55,Groceries
+101,Female,25,30,60,Groceries
+102,Female,45,70,40,Groceries
+103,Female,23,25,70,Groceries
+104,Female,35,65,50,Groceries
+105,Female,46,80,30,Groceries
+106,Female,28,35,65,Groceries
+107,Female,39,55,45,Groceries
+108,Female,24,32,75,Groceries
+109,Female,48,90,25,Groceries
+110,Female,30,40,55,Groceries
+111,Female,25,30,60,Groceries
+112,Female,45,70,40,Groceries
+113,Female,23,25,70,Groceries
+114,Female,35,65,50,Groceries
+115,Female,46,80,30,Groceries
+116,Female,28,35,65,Groceries
+117,Female,39,55,45,Groceries
+118,Female,24,32,75,Groceries
+119,Female,48,90,25,Groceries
+120,Female,30,40,55,Groceries
+121,Female,25,30,60,Groceries
+122,Female,45,70,40,Groceries
+123,Female,23,25,70,Groceries
+124,Female,35,65,50,Groceries
+125,Female,46,80,30,Groceries
+126,Female,28,35,65,Groceries
+127,Female,39,55,45,Groceries
+128,Female,24,32,75,Groceries
+129,Female,48,90,25,Groceries
+130,Female,30,40,55,Groceries
+131,Female,25,30,60,Groceries
+132,Female,45,70,40,Groceries
+133,Female,23,25,70,Groceries
+134,Female,35,65,50,Groceries
+135,Female,46,80,30,Groceries
+136,Female,28,35,65,Groceries
+137,Female,39,55,45,Groceries
+138,Female,24,32,75,Groceries
+139,Female,48,90,25,Groceries
+140,Female,30,40,55,Groceries
+141,Female,25,30,60,Clothing
+142,Female,45,70,40,Clothing
+143,Female,23,25,70,Clothing
+144,Female,35,65,50,Clothing
+145,Female,46,80,30,Clothing
+146,Female,28,35,65,Clothing
+147,Female,39,55,45,Clothing
+148,Female,24,32,75,Clothing
+149,Female,48,90,25,Clothing
+150,Female,30,40,55,Clothing
+151,Female,25,30,60,Clothing
+152,Female,45,70,40,Clothing
+153,Female,23,25,70,Clothing
+154,Female,35,65,50,Clothing
+155,Female,46,80,30,Clothing
+156,Female,28,35,65,Clothing
+157,Female,39,55,45,Clothing
+158,Female,24,32,75,Clothing
+159,Female,48,90,25,Clothing
+160,Female,30,40,55,Clothing
+161,Female,25,30,60,Clothing
+162,Female,45,70,40,Clothing
+163,Female,23,25,70,Clothing
+164,Female,35,65,50,Clothing
+165,Female,46,80,30,Clothing
+166,Female,28,35,65,Clothing
+167,Female,39,55,45,Clothing
+168,Female,24,32,75,Clothing
+169,Female,48,90,25,Clothing
+170,Female,30,40,55,Clothing
+171,Female,25,30,60,Clothing
+172,Female,45,70,40,Clothing
+173,Female,23,25,70,Clothing
+174,Female,35,65,50,Clothing
+175,Female,46,80,30,Clothing
+176,Female,28,35,65,Clothing
+177,Female,39,55,45,Clothing
+178,Female,24,32,75,Clothing
+179,Female,48,90,25,Clothing
+180,Female,30,40,55,Clothing
+181,Female,25,30,60,Sports Goods
+182,Female,45,70,40,Sports Goods
+183,Female,23,25,70,Sports Goods
+184,Female,35,65,50,Sports Goods
+185,Female,46,80,30,Sports Goods
+186,Female,28,35,65,Sports Goods
+187,Female,39,55,45,Sports Goods
+188,Female,24,32,75,Sports Goods
+189,Female,48,90,25,Sports Goods
+190,Female,30,40,55,Sports Goods
+191,Female,25,30,60,Sports Goods
+192,Female,45,70,40,Sports Goods
+193,Female,23,25,70,Sports Goods
+194,Female,35,65,50,Sports Goods
+195,Female,46,80,30,Sports Goods
+196,Female,28,35,65,Sports Goods
+197,Female,39,55,45,Sports Goods
+198,Female,24,32,75,Sports Goods
+199,Female,48,90,25,Sports Goods
+200,Female,30,40,55,Sports Goods
